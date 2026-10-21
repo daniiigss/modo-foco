@@ -1,4 +1,4 @@
-﻿<#
+<#
 Installs (or updates) Modo Foco on this PC. No administrator rights needed.
 
   From GitHub, in PowerShell:
