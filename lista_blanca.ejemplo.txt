@@ -1,0 +1,15 @@
+# LISTA BLANCA DEL MODO FOCO
+# Un nombre de proceso por línea, sin .exe. Lo que va detrás de # no cuenta.
+# Nunca se cierran los procesos de Windows ni los hijos de estas apps.
+# Esta es la lista de ejemplo: el instalador la copia a lista_blanca.txt solo si
+# todavía no tienes una, y la checklist (Modo Foco en el escritorio) la reescribe.
+
+pwsh             # PowerShell 7
+cmd              # Símbolo del sistema
+WindowsTerminal  # Terminal de Windows
+powershell       # Windows PowerShell
+chrome           # Google Chrome
+msedge           # Microsoft Edge
+WINWORD          # Word
+EXCEL            # Excel
+POWERPNT         # PowerPoint

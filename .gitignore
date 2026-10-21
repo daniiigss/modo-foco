@@ -1,0 +1,5 @@
+# Personal, per-PC files: created on each machine, never shared
+lista_blanca.txt
+linea_base.json
+cerradas_ultima_vez.csv
+__pycache__/
